@@ -27,7 +27,7 @@ const CommonHA = (props) => {
                 <div className='col-lg-6 order-1 order-lg-2 header-img'>
                   <img className='img-fluid animated'
                     src={props.imgSrc}
-                    hieght="550" width='600'
+                    hieght="90%" width='75%'
                     alt=" home.."
                   />
                 </div>
